@@ -101,7 +101,7 @@
 
 [website]: http://sahilkaushal.com
 [course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
+[twitter]: https://twitter.com/skselfmade
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
